@@ -1,7 +1,7 @@
 # Ayoub SEGHIR
 **Étudiant en BUT Informatique (Parcours Data) & Entrepreneur**
 
-[cite_start]Je suis Ayoub SEGHIR, étudiant en deuxième année de BUT Informatique à l’IUT de Reims . [cite_start]Passionné par le développement et l'analyse de données, j'aime concevoir des outils qui automatisent les processus et simplifient la prise de décision  [cite: 19-20, 116-120]. [cite_start]Mon parcours combine la rigueur de mes études et l'expérience concrète acquise via mes projets personnels et entrepreneuriaux  [cite: 19-20, 122-123].
+Je suis Ayoub SEGHIR, étudiant en deuxième année de BUT Informatique à l’IUT de Reims. Passionné par le développement et l'analyse de données, j'aime concevoir des outils qui automatisent les processus et simplifient la prise de décision. Mon parcours combine la rigueur de mes études et l'expérience concrète acquise via mes projets personnels et entrepreneuriaux.
 
 ---
 
@@ -19,15 +19,15 @@
 ### 🎓 Projets Académiques (SAE)
 
 * **SAE 2.01 - Analyse de données** : Nettoyage, exploration statistique et visualisation de données avec Python.
-* [cite_start]**SAE 3.01 - Développement Web** : Création d'une application complète et structurée sous Symfony .
-* [cite_start]**SAE 2.04 - Bases de données** : Optimisation de requêtes SQL et modélisation pour l'aide à la décision .
+* **SAE 3.01 - Développement Web** : Création d'une application complète et structurée sous Symfony.
+* **SAE 2.04 - Bases de données** : Optimisation de requêtes SQL et modélisation pour l'aide à la décision.
 
 ---
 
 ### 🚀 Projets Personnels
 
 * **💹 [TradeBot](https://github.com/votre-pseudo/tradebot)** : Monitoring automatisé de flux financiers en temps réel (Python & APIs).
-* [cite_start]**⌨️ [SAHYGO](https://github.com/votre-pseudo/sahygo)** : Gestion technique et automatisation des flux de ma micro-entreprise e-commerce  [cite: 19-20, 122-123].
+* **⌨️ [SAHYGO](https://github.com/votre-pseudo/sahygo)** : Gestion technique et automatisation des flux de ma micro-entreprise e-commerce.
 
 ---
 
