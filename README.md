@@ -34,8 +34,8 @@ Je suis Ayoub SEGHIR, étudiant en deuxième année de BUT Informatique à l’I
 ### 📊 GitHub Activity
 
 <p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=votre-pseudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-pseudo&layout=compact&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SAHYGO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHYGO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
