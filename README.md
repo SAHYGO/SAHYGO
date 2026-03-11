@@ -42,6 +42,6 @@ Je suis Ayoub SEGHIR, étudiant en deuxième année de BUT Informatique à l’I
 
 ### 📫 Contact
 
-* **LinkedIn** : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
+* **LinkedIn** : https://www.linkedin.com/in/ayoub-seghir-675916277/
 * **Email** : [ayoub.seghir@outlook.fr](mailto:ayoub.seghir@outlook.fr)
 * **📍 Localisation** : Reims / Marseille
