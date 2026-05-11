@@ -26,8 +26,8 @@ Je suis Ayoub SEGHIR, étudiant en deuxième année de BUT Informatique à l’I
 
 ### 🚀 Projets Personnels
 
-* **💹 [TradeBot](https://github.com/votre-pseudo/tradebot)** : Monitoring automatisé de flux financiers en temps réel (Python & APIs).
-* **⌨️ [SAHYGO](https://github.com/votre-pseudo/sahygo)** : Gestion technique et automatisation des flux de ma micro-entreprise e-commerce.
+* **💹 [TradeBot](https://github.com/SAHYGO/TRADING)** : Monitoring automatisé de flux financiers en temps réel (Python & APIs).
+* **⌨️ [SAHYGO](https://github.com/SAHYGO/sahygo)** : Gestion technique et automatisation des flux de ma micro-entreprise e-commerce.
 
 ---
 
